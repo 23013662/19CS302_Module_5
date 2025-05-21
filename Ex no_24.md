@@ -46,7 +46,6 @@ int main() {
 
         emp[i].grossSalary = emp[i].basicPay + (0.10 * emp[i].basicPay) + (0.30 * emp[i].basicPay);
     }
-
     printf("\n--- Employee Details with Gross Salary ---\n");
     for (i = 0; i < 3; i++) {
         printf("\nEmployee %d:\n", i + 1);
