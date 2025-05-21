@@ -34,9 +34,7 @@ int main() {
     scanf("%f", pHeight);
 
     *pArea = 0.5 * (*pBase) * (*pHeight);
-
     printf("Area of the triangle = %.2f\n", *pArea);
-
     return 0;
 }
 ```
