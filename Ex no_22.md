@@ -24,7 +24,6 @@ Developed by:
 RegisterNumber:  
 */
 #include <stdlib.h>
-
 int main() {
     int *arr, size, i, count = 0;
 
